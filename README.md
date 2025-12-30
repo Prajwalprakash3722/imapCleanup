@@ -2,7 +2,7 @@
 
 I had 50,000+ emails. Gmail search is slow. I wanted to nuke all those Swiggy, Zomato, and GitHub notification emails in one go.
 
-So I (By I mean LLM) built this.
+So I (By I mean LLM) built this, this was inspired by https://x.com/mrkaran_/status/2006054634918711429?s=20, @mr-karan
 
 ## What it does
 
