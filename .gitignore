@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Credentials (NEVER commit these!)
+.env
+
+# SQLite database (contains your email metadata)
+gmail.db
+gmail.db-wal
+gmail.db-shm
+
+# Editor/IDE
+.idea/
+.vscode/
+*.swp

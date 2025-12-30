@@ -1,0 +1,12 @@
+[project]
+name = "gmail-cleanup"
+version = "0.1.0"
+description = "Local Gmail analysis and cleanup tool using IMAP"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "python-dotenv>=1.0.0",  # For loading credentials from .env
+]
+
+[project.scripts]
+gmail-cleanup = "main:cli"
